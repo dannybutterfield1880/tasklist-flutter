@@ -1,0 +1,2 @@
+const String API_ROOT="http://192.168.99.1/tasklist-api";
+const String API_KEY="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjEsInVzZXJuYW1lIjoiZGFubnliIiwiZW1haWwiOiJkYW5ueWJ1dHRlcmZpZWxkMTg4MEBnbWFpbC5jb20iLCJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3QiLCJhdWQiOiJodHRwOlwvXC9sb2NhbGhvc3QiLCJpYXQiOjE2MTM2NTczNTQsImV4cCI6MTYxMzY2MDk1NH0.eUKJ4zrgO-8BoVn28iS2M-VI7wjs2S4zg2hESyq2JgI";
